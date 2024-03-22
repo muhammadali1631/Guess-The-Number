@@ -1,6 +1,6 @@
 {
-  "name": "956-project-2",
-  "version": "1.0.3",
+  "name": "guess-the-number-956",
+  "version": "2.0.3",
   "description": "",
   "main": "index.js",
   "type": "module",
